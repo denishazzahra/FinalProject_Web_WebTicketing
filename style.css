@@ -1,0 +1,28 @@
+body
+{
+    background-image:url("background.jpg");
+    background-size:cover;
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color:#0b0c10;
+    color:#c5c6c7;
+}
+
+table.loginregister
+{
+    width:300px;
+    border-top: 1px solid #3c3f44;
+}
+
+h1.header, a.nav-link:hover:not(.active)
+{
+    color:#66fcf1;
+}
+
+a.nav-link
+{
+    font-weight:bold;
+    color:#45a29e;
+}
